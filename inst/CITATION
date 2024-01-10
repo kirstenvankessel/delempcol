@@ -1,0 +1,13 @@
+citHeader("To cite delempcol in publications use:")
+
+citEntry(
+  entry    = "Manual",
+  title    = "kirstenvankessel/delempcol: Version 0.2.0 - First release",
+  author   = "Kirsten van Kessel",
+  year     = "2024",
+  doi      = "10.5281/zenodo.10478735",
+  url      = "https://github.com/kirstenvankessel/delempcol",
+  textVersion = paste(
+  "van Kessel, K. (2024). kirstenvankessel/delempcol: Version 0.2.0 - First release (Version v0.2.0) [Computer software]. https://doi.org/10.5281/zenodo.1047873"
+  )
+)
