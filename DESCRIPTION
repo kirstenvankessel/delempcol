@@ -1,0 +1,14 @@
+Package: delempcol
+Type: Package
+Title: Delete Empty Columns from a Dataset
+Version: 0.2.0
+Author: Kirsten van Kessel
+Maintainer: Kirsten van Kessel <k.d.vankessel@students.uu.nl>
+Description: With the delempcol package, you can delete all columns that exist only of missing values from the dataset at once.  
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    dplyr
